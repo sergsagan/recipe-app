@@ -1,4 +1,4 @@
-# Nuxt 4 Minimal Starter
+# Nuxt 3 Minimal Starter
 
 ## Setup
 
